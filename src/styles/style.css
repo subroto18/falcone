@@ -1,0 +1,54 @@
+
+  
+  /* header  */
+
+  /* body  */
+
+  .body{
+      background-color: #8f8d8d;
+      min-height: 90vh;
+  }
+
+  .selected-vehicle-radio.my-2 {
+    margin-top: 17px !important;
+
+  }
+
+  .radio {
+    margin-right: 10px;
+  }
+  .time-token-div h6 {
+    color: #fff;
+    font-size: 18px;
+    margin-top: 18px;
+    font-weight: bold;
+  }
+
+
+  .dashboard-div {
+    position: relative;
+    min-height: 90vh;
+  }
+  
+  .welcome-title {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-weight: bold;
+  }
+
+  /* footer  */
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    bottom: 0;
+  }
